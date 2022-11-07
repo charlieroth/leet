@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import twosum "github.com/charlieroth/leet/two-sum"
 
 func main() {
-    fmt.Println("leet")
+	twosum.Proof()
 }
